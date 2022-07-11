@@ -13,6 +13,9 @@
 ### Team
 공현정, 손재정, 정은정
 <br/><br/>
+## DB 소개
+![image](https://user-images.githubusercontent.com/100047095/178320052-3c2506f7-c7fe-4db3-84e9-f14dbf57a3fe.png)
+<br/><br/>
 
 ## 구현 화면
 ### 메인 화면
